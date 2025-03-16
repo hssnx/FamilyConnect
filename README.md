@@ -17,7 +17,7 @@ ShahirConnect is an AI-powered **family learning and task management platform** 
 
 ## ❓ Why This Project?
 
-Managing daily learning activities for family members can be time-consuming, so I built **ShahirConnect** as an **AI-powered online hub for family learning and productivity**.  
+As an older brother, I want my siblings to always stay on track and continue growing, but spending hours teaching them is very time-consuming. So, I built ShahirConnect—an AI-powered online hub for family learning and productivity.
 
 ShahirConnect allows AI to **generate, assign, and evaluate** tasks automatically, keeping everyone engaged in meaningful daily learning. It’s a **personalized AI-driven mentor** that tracks progress, maintains streaks, and fosters healthy learning habits.  
 
