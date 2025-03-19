@@ -1,6 +1,6 @@
-# ShahirConnect
+# FamilyConnect
 
-ShahirConnect is an AI-powered **family learning and task management platform** that automates task assignments, tracks progress, and rewards consistency with streaks.
+FamilyConnect is an AI-powered **family learning and task management platform** that automates task assignments, tracks progress, and rewards consistency with streaks.
 
 ## 🚀 Features
 
@@ -17,9 +17,9 @@ ShahirConnect is an AI-powered **family learning and task management platform** 
 
 ## ❓ Why This Project?
 
-As an older brother, I want my siblings to always stay on track and continue growing, but spending hours teaching them is very time-consuming. So, I built ShahirConnect—an AI-powered online hub for family learning and productivity.
+As an older brother, I want my siblings to always stay on track and continue growing, but spending hours teaching them is very time-consuming. So, I built FamilyConnect—an AI-powered online hub for family learning and productivity.
 
-ShahirConnect allows AI to **generate, assign, and evaluate** tasks automatically, keeping everyone engaged in meaningful daily learning. It’s a **personalized AI-driven mentor** that tracks progress, maintains streaks, and fosters healthy learning habits.  
+FamilyConnect allows AI to **generate, assign, and evaluate** tasks automatically, keeping everyone engaged in meaningful daily learning. It’s a **personalized AI-driven mentor** that tracks progress, maintains streaks, and fosters healthy learning habits.  
 
 Unlike public educational platforms, this is a **closed system designed exclusively for family members**, ensuring a **safe, distraction-free, and collaborative environment** for education and self-improvement.
 
@@ -29,5 +29,5 @@ Unlike public educational platforms, this is a **closed system designed exclusiv
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/ShahirConnect.git
-cd ShahirConnect
+git clone https://github.com/yourusername/FamilyConnect.git
+cd FamilyConnect
